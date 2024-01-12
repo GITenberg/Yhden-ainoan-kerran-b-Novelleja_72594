@@ -1,0 +1,28 @@
+_repo: Yhden-ainoan-kerran-b-Novelleja_72594
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kajander, Kalle
+    birthdate: 1862
+    deathdate: 1928
+    gutenberg_agent_id: '46417'
+    url: http://www.gutenberg.org/2009/agents/46417
+    wikipedia: https://fi.wikipedia.org/wiki/Kalle_Kajander
+description: ''
+gutenberg_issued: '2024-01-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72594'
+language: fi
+pgterms:marc905: 20230413122130kajander
+pgterms:marc906: '1911'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aHelsinki :$bOtava, $c1911.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Yhden ainoan kerran : $b Novelleja'
+url: http://www.gutenberg.org/ebooks/72594
