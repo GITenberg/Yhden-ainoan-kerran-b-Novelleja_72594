@@ -1,5 +1,8 @@
 _repo: Yhden-ainoan-kerran-b-Novelleja_72594
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Kajander, Kalle
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/46417
     wikipedia: https://fi.wikipedia.org/wiki/Kalle_Kajander
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72594#Yhden-ainoan-kerran-b-Novelleja
 gutenberg_issued: '2024-01-02'
 gutenberg_type: Text
 identifiers:
